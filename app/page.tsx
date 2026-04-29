@@ -149,7 +149,7 @@ export default function Home() {
       <footer style={{ padding: "40px 24px", borderTop: "1px solid #f3f4f6", maxWidth: "1200px", margin: "0 auto", width: "100%" }}>
         <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", flexWrap: "wrap", gap: "24px" }}>
           <div style={{ display: "flex", alignItems: "center", gap: "10px" }}>
-            <div style={{ width: "24px", height: "24px", backgroundColor: "#10b981", borderRadius: "6px", display: "flex", alignItems: "center", justifyCenter: "center", color: "white" }}>
+            <div style={{ width: "24px", height: "24px", backgroundColor: "#10b981", borderRadius: "6px", display: "flex", alignItems: "center", justifyContent: "center", color: "white" }}>
               <MessageSquare size={14} style={{ margin: "0 auto" }} />
             </div>
             <span style={{ fontSize: "16px", fontWeight: 700 }}>ChatAI</span>
