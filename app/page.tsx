@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { MessageSquare, Zap, Shield, Sparkles, Code, Globe, ArrowRight } from "lucide-react";
+import { MessageSquare, Zap, Shield, Sparkles, Code, Globe, ArrowRight, AlignVerticalJustifyCenter } from "lucide-react";
 
 export default function Home() {
   return (
