@@ -93,7 +93,6 @@ export default function Sidebar({
               backgroundColor: activeId === c.id ? "#1e293b" : "transparent",
               transition: "background-color 0.2s",
               position: "relative",
-              group: "item",
             }}
             onMouseEnter={(e) => {
               if (activeId !== c.id) e.currentTarget.style.backgroundColor = "#1e293b";
