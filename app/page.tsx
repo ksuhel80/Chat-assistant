@@ -17,7 +17,7 @@ export default function Home() {
         width: "100%"
       }}>
         <div style={{ display: "flex", alignItems: "center", gap: "10px" }}>
-          <div style={{ width: "36px", height: "36px", backgroundColor: "#10b981", borderRadius: "8px", display: "flex", alignItems: "center", justifyCenter: "center", color: "white" }}>
+          <div style={{ width: "36px", height: "36px", backgroundColor: "#10b981", borderRadius: "8px", display: "flex", alignItems: "center", justifyContent: "center", color: "white" }}>
             <MessageSquare size={20} style={{ margin: "0 auto" }} />
           </div>
           <span style={{ fontSize: "20px", fontWeight: 700, color: "#111827" }}>ChatAI</span>
